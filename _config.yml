@@ -17,5 +17,4 @@ plugins:
   - jekyll-seo-tag
   
 theme: minima
-header_pages:
-  - about.md
+
