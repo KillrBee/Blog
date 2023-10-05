@@ -1,4 +1,21 @@
+title: Published Works 
+author:
+  name: Greg Broadhead
+  email: greg.broadhead+NoSpam@gmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  A site that maintains the body of AI work that I have produced. 
+
+# Build settings
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 theme: minima
 header_pages:
   - about.md
-  - portfolio.md
