@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Index of HTML files
+title: Published Works
 ---
 <main class="page-content" aria-label="Content">
      <div class="wrapper">
-         # Index of HTML files
+         These are some of my published works on Medium.com
         {%- include header.html -%}
         <ul>
         {% for file in site.static_files %}
